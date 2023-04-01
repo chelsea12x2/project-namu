@@ -1,7 +1,7 @@
 .timeline {
     width: 5%;
-    height: 1px;
-    background-color: green;
+    height: 2.5px;
+    background-color: #8DCD03;
     margin-top: auto;
     margin-bottom: auto;
 }
@@ -43,8 +43,8 @@
 }
 
 .icon {
-    height: 2vw;
-    width: 2vw;
+    height: 2.5vw;
+    width: auto;
     margin: auto;
     display: flex;
 }
